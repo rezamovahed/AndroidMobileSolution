@@ -23,7 +23,7 @@
     <ProjectGuid>{01A6AD58-FD2A-4DEF-B7C1-BD84B0F466A4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LsCom</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>LsComUtf8</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

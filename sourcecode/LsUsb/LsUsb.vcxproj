@@ -23,7 +23,7 @@
     <ProjectGuid>{3516D317-89B5-48EA-BFF5-5E2CE1635F72}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LsUsb</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{7BC8BC34-A20A-45D6-A386-EA60FAA88A69}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>UsbConnectEvent</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
